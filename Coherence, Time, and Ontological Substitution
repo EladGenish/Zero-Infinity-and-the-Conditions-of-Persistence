@@ -1,0 +1,98 @@
+Coherence, Time, and Ontological Substitution
+A Critique of Circularity in Emergent Time Theories
+
+Author: Elad Genish
+Date: January 2026
+Subject: Foundations of Physics / Ontology
+
+Abstract
+This paper critiques a prevalent trend in foundational physics: the attempt to derive time from "coherence" or "information geometry." We argue that such theories do not eliminate time but obscure it through ontological substitution. By treating coherence as a primitive scalar field, these frameworks smuggle in pre-existing relational structures (space, order, and metric) that effectively encode the very temporal dynamics they claim to derive. We demonstrate that coherence is a derived statistic, not a fundamental generator, and that treating it as foundational results in a tautology where time is simply renamed rather than explained.
+
+I. The Promise of Emergence
+The ambition to eliminate time from the fundamental ontology of the universe is understandable. The "Problem of Time" in quantum gravity—the incompatibility between the mutable time of General Relativity and the fixed background time of Quantum Mechanics—suggests that time might be an emergent property rather than a fundamental one.
+
+Recent theoretical approaches often propose that time emerges as a parameterization of relational change. The narrative is seductive:
+
+Posit a timeless state space (a "coherence space" or "information manifold").
+
+Define a scalar field (Coherence $C$) across this manifold.
+
+Define "physical time" as the arc-length along a trajectory of changing coherence.
+
+Derive entropy, causality, and time dilation as consequences of the geometry of $C$.
+
+At first glance, this is modest and elegant. It suggests the universe is a static geometry, and "time" is merely the gradient of correlations within it.
+
+II. The Ontological Substitution
+What makes these theories feel both elegant and dishonest is not a mathematical flaw, but an ontological substitution: several conceptually independent structures are collapsed into a single privileged object called "coherence."
+
+These theories do not derive time from space in a neutral sense. They derive time from a space that has already been redefined as coherence.
+
+Formally, let us assume a domain $\Omega$ (the state space) and a coherence function $C(\psi)$. The theory claims that the "flow" of time $\tau$ is given by the gradient descent of $C$:
+d
+τ
+∝
+−
+∇
+C
+dτ∝−∇C
+
+From this definition, familiar temporal phenomena—halting (where $\nabla C = 0$), redshift, and entropy growth—are presented as derived consequences.
+
+The Error:
+The derivations themselves are mathematically consistent. The error lies in what is assumed while being presented as minimal.
+Coherence is not ontologically primitive. It is a relational property. It is defined only relative to:
+
+A set of degrees of freedom (the "things" being coherent).
+
+A manifold across which variation is measured (a spatial context).
+
+A metric by which "alignment" or "order" is evaluated.
+
+To say "State A is more coherent than State B" requires a pre-existing metric of order. Coherence therefore presupposes relation and space; it does not precede them.
+
+III. Case Studies in Circularity
+This error is not hypothetical. It appears in several leading "timeless" frameworks where the generator of time is simply a hidden clock described in different language.
+
+A. The Thermal Time Hypothesis (Connes & Rovelli)
+The Claim: Time is not fundamental. It is a statistical artifact determined by the state of the system. Specifically, the "flow" of time is defined by the Tomita-Takesaki modular flow associated with a thermal state (the KMS state).
+The Substitution: The theory works beautifully, but it assumes a von Neumann algebra of observables from the start. An algebra of observables inherently contains the structure of the system's dynamics. By choosing a specific state (the KMS state) to generate the flow, one is not deriving time from nothing; one is selecting a specific "perspective" on a pre-existing dynamical structure. The "thermal state" is a proxy for the Hamiltonian, which is literally the operator of time evolution.
+Verdict: Time is not derived; it is encoded in the algebraic relations of the observables.
+
+B. Shape Dynamics (Barbour)
+The Claim: Time does not exist; only "Nows" exist. The universe is a "heap" of instantaneous 3D geometries (shapes) in a configuration space called Platonia. "Time" is just the path of "best matching" between these shapes.
+The Substitution: How does one determine the "best match" between two static shapes? One must minimize the incongruence between them. This minimization process requires a metric of similarity. This metric is the ordering principle. By defining a rule that orders the "heap" of instants into a sequence, Barbour has not eliminated time; he has simply renamed it "Best Matching."
+Verdict: The "Best Matching" algorithm acts exactly as a time evolution operator. The sequence is manually enforced by the matching rule.
+
+C. Entropic/Information Gravity
+The Claim: Gravity and time are emergent phenomena resulting from the entanglement entropy of microscopic degrees of freedom (qubits) on a holographic screen.
+The Substitution: "Information" is treated here as a physical fluid. But information requires a reader—or at least a distinct reference frame—to be defined. To talk about the "processing" of information or the "erasure" of bits (Landauer’s principle) presupposes a state change. You cannot have an operation (processing) without a "before" and "after."
+Verdict: Processing is a temporal verb. Treating "information processing" as the generator of time is a tautology.
+
+IV. The Loss of Neutrality
+Treating coherence (or thermal states, or best matching) as the generator of time already assumes relational structure, spatial differentiation, and an ordering principle.
+
+Once these are in place, a time-like parameter is effectively already encoded.
+
+What is presented as a derivation is instead a concentration of independent structures into a single scalar field.
+
+Monotonicity (the arrow of time) is not derived from coherence; it is built into the definition that coherence must decay (or entropy must increase).
+
+Causality is not emerging from the geometry; it is the constraint placed on allowable trajectories within the manifold.
+
+Space is not foundational; it is reintroduced as "coherence space" under another label.
+
+V. Conclusion
+Minimalism is claimed, but neutrality is lost. Time is not eliminated from the ontology; it is renamed and embedded.
+
+Entropy is encoded as "coherence decay."
+
+Dynamics are encoded as "geometric gradients."
+
+Time is encoded as "relation."
+
+Coherence cannot ground time without already presupposing relation and space. It is therefore not a foundation, but a derived statistic elevated to ontology. The problem with these theories is not incorrect mathematics. The problem is ontological non-independence.
+
+We must stop pretending that renaming the clock "coherence" breaks it.
+
+© 2026 Elad Genish. All Rights Reserved.
